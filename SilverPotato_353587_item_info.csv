@@ -1,65 +1,66 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-08-26 13:55:35
-item-10,Dummy Core,5830
-item-31,Basic Training Data,4342
-item-32,Intermediate Training Data,6961
-item-33,Advanced Training Data,6854
+item-10,Dummy Core,5808
+item-31,Basic Training Data,2252
+item-32,Intermediate Training Data,7545
+item-33,Advanced Training Data,7174
 -1,kalina_level,27
--1,kalina_favor,78685
-item-1,T-Doll Contract,6867
-item-2,Equipment Contract,5271
-item-3,Quick Production Contract,5212
-item-4,Quick Repair Contract,14403
+-1,kalina_favor,79890
+item-1,T-Doll Contract,7079
+item-2,Equipment Contract,5366
+item-3,Quick Production Contract,5480
+item-4,Quick Repair Contract,14676
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
-item-8,Quick Training Contract,250
-item-9,Enhancement Capsule,3838
+item-8,Quick Training Contract,262
+item-9,Enhancement Capsule,4060
 item-11,Key Card,0
-item-12,Points,0
-item-14,Original Sample,870
-item-15,Pure Sample,421
-item-16,Quick Analysis Contract,1603
-item-17,Data Patch,460
-item-41,Token,7096
+item-12,Points,380
+item-14,Original Sample,760
+item-15,Pure Sample,527
+item-16,Quick Analysis Contract,1642
+item-17,Data Patch,502
+item-41,Token,7538
 item-42,Exchange Ticket,0
 item-43,Black Card,15
-item-44,Calibration Ticket,7152
-item-45,Memory Fragment,8240
-item-46,Special Combat Report,11218
+item-44,Calibration Ticket,7467
+item-45,Memory Fragment,8260
+item-46,Special Combat Report,11903
 item-47,Theater Material,2
-item-50,Universal Parts,16392
-item-51,New Type Fire-Control Component,50
-item-53,Gachapon Ticket,2514
-item-100,Elite Griffin Combat Medal,9
+item-50,Universal Parts,17361
+item-51,New Type Fire-Control Component,57
+item-53,Gachapon Ticket,3397
+item-100,Elite Griffin Combat Medal,10
 item-101,Combat Ranking Medal,131
 item-103,Challenger Medal,28
 item-104,Elite Adventurer Medal,7
 item-105,Sangvis-Griffin Coalition Medal,5
-item-106,Chess Champion Medal,1355
+item-106,Chess Champion Medal,1394
 item-306,Core Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
 item-308,Core Data: PP93,2
-item-506,Battery,165
-item-507,Surplus EXP,293628
-item-508,Friendship Points,210730
-item-509,Fairy Command,60
+item-506,Battery,5237
+item-507,Surplus EXP,554807
+item-508,Friendship Points,218530
+item-509,Fairy Command,33
 item-510,Combat Sim Extra Energy,20
-item-512,Supernova Kernel,140
-item-513,Dark Star Kernel,12100
-item-514,Petri Dish,9672
-item-515,Basic Training Keycode,59096
-item-516,Advanced Training Keycode,22750
+item-512,Supernova Kernel,150
+item-513,Dark Star Kernel,10300
+item-514,Petri Dish,11109
+item-515,Basic Training Keycode,48916
+item-516,Advanced Training Keycode,16548
 item-517,Specified Equipment Contract,30
-item-519,HOC General Data,235
+item-519,HOC General Data,239
 item-520,Frag Grenade,128
 item-521,Stun Grenade,90
 item-522,Turret,46
-item-525,Quick Auto-Battle Contract,5
-item-601,Infinite Surprise Dye,48
+item-524,Goliath Projectile,0
+item-525,Quick Auto-Battle Contract,59
+item-601,Infinite Surprise Dye,49
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
-item-604,Electronic Impulse,4
-item-605,Aid Commission,97
+item-604,Electronic Impulse,0
+item-605,Aid Commission,101
 item-606,Transfer Catalyst,259
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
@@ -258,11 +259,26 @@ item-1765,ID: Cold Shelter,1
 item-1766,Background: Safe House,1
 item-1768,PP-19 Neural Upgrade Icon,1
 item-1776,ID: Girls by the Hearth,1
+item-1806,Icon: Sunderer,1
+item-1808,Icon: Agent "U",1
+item-1809,Icon: Lone Shadow,1
+item-1810,Icon: Hidden Edge,1
+item-1811,Icon: Ephemeral Dream,1
+item-1812,Icon: Worldliness,1
+item-1813,ID: Gentle Morning Light,1
+item-1815,ID: Ashes,1
+item-1816,ID: Dark Dreams,1
+item-1817,ID: Elusive Truth,1
+item-1818,ID: Revealed Dagger,1
+item-1819,Background: Phantasmic Dreamscape,1
+item-1820,Background: Whispering Wind,1
+item-1821,Background: Peaceful Afternoon,1
+item-1822,Background: Hall of Vultures,1
 item-1844,ID: Spring Carnival,1
 item-1857,Rain of Bullets – Borderland,1
 item-1858,Storm of Steel – Borderland,1
 item-1859,Tide of Alloy – Borderland,1
-item-1860,ID: NA Server 3rd Anniversary Commemorative ID,1
+item-1860,ID: Fragments of Precious Treasures,1
 item-1889,Icon: Waves Wrangler,1
 item-1890,Icon: In Oceans Deep,1
 item-1891,Icon: Best Actress,1
@@ -298,23 +314,24 @@ item-2017,Icon: Setting Sail,1
 item-2018,Icon: Friend of Pure Loyalty,1
 item-2019,ID: Screen Breakers,1
 item-2074,ID: A Promise of Four Years,1
-item-4001,City's Gift,61219
-item-4002,Snowfield's Gift,74951
-item-4003,Forest's Gift,80729
-item-4004,Wasteland's Gift,18716
-item-6001,Ordinary Meat Bun,55
+item-2124,ID Card: Mirror Stage,1
+item-4001,City's Gift,64955
+item-4002,Snowfield's Gift,74152
+item-4003,Forest's Gift,85189
+item-4004,Wasteland's Gift,18552
+item-6001,Ordinary Meat Bun,56
 item-6002,Bundle of Meat Buns,57
-item-6003,Trove of Meat Buns,100
-item-6004,Commonfolk Standard,69
-item-6005,Comfort Bucket for One,61
-item-6006,Full Meal for Two,132
-item-6007,Strawberry Cheesecake Slice,62
-item-6008,One Week's Cake Selection,65
-item-6009,Sweet Explosives,213
+item-6003,Trove of Meat Buns,101
+item-6004,Commonfolk Standard,71
+item-6005,Comfort Bucket for One,65
+item-6006,Full Meal for Two,133
+item-6007,Strawberry Cheesecake Slice,63
+item-6008,One Week's Cake Selection,68
+item-6009,Sweet Explosives,219
 item-6010,"Baby  B-A-B-Y.",83
-item-6011,Streetside Oden,68
-item-6012,Wild Honeycomb,75
-item-6013,Icy Theater,87
+item-6011,Streetside Oden,70
+item-6012,Wild Honeycomb,76
+item-6013,Icy Theater,88
 item-7010,Golden Lullaby,1
 item-7012,Cherry Blossom Breeze,1
 item-7013,Stormy Cloud,1
@@ -329,8 +346,8 @@ item-9004,Supply Box,0
 item-9005,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
-item-10603,Extra Potential Energy,15
-item-10604,Extra Impulse,172
+item-10603,Extra Potential Energy,30
+item-10604,Extra Impulse,193
 item-100006,Gingerbread Doll,64
 item-100008,Easter Egg,15
 item-100009,Crown of Respect,20
@@ -369,6 +386,9 @@ item-100072,Platinum Medal - Bounty Feast,4
 item-100073,Star Ornament,130
 item-100074,Nova Medal·A Snowy Night Capriccio,0
 item-100075,Platinum Medal·A Snowy Night Capriccio,0
+item-100077,Supply Box - Mirror Stage,0
+item-100078,Nova Medal - Mirror Stage,142
+item-100079,Platinum Medal - Mirror Stage,267
 item-100081,Nova Medal - The Photo Studio Mystery,1
 item-100082,Platinum Medal - The Photo Studio Mystery,3
 item-100083,Tangerine Coin,80
@@ -376,9 +396,9 @@ item-100085,Platinum Medal,12
 item-100092,Nova Medal - Far Side of the Sea,3
 item-100093,Platinum Medal - Far Side of the Sea,1
 item-100094,Azure Conch,0
-item-100095,Nova Medal – The Waves Wrangler,235
-item-100096,Platinum Medal – The Waves Wrangler,5
-item-100097,Star Marker,60
+item-100095,Nova Medal – The Waves Wrangler,3
+item-100096,Platinum Medal – The Waves Wrangler,0
+item-100097,Star Marker,0
 item-100098,Nova Medal – My Devil's Frontline,0
 item-100099,Platinum Medal – My Devil's Frontline,4
 item-100100,Token of Life,20
@@ -411,6 +431,7 @@ item-110017,Event Points,2440
 item-110018,Event Points,2650
 item-110019,Event Points,2420
 item-110020,Event Points,2400
+item-110039,Event Points,3802867
 item-900030,Nova Medal,1
 item-900032,Nova Medal,4
 item-900034,Nova Medal·Shattered Connexion,4
@@ -425,19 +446,19 @@ item-900042,Tangerine Coin,0
 item-900043,Nova Medal·Far Side of the Sea,0
 item-900044,Platinum Medal·Far Side of the Sea,1
 item-900045,Azure Conch,0
-gift-100001,Lollipop,315
-gift-100002,Ice Cream Cone,186
-gift-100003,Strawberry Custard Cheesecake,2265
+gift-100001,Lollipop,316
+gift-100002,Ice Cream Cone,187
+gift-100003,Strawberry Custard Cheesecake,2395
 gift-100005,Mulan Tea,40
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,180112
+gift-200001,Combat Report,182596
 gift-200003,Beer on Discount,40
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,16976
+gift-400001,Rapid Growth Disk,19110
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
