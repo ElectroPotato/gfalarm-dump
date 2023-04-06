@@ -1,72 +1,75 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-08-26 13:55:35
-item-10,Dummy Core,4532
-item-31,Basic Training Data,10450
-item-32,Intermediate Training Data,6836
-item-33,Advanced Training Data,7241
+item-10,Dummy Core,5003
+item-31,Basic Training Data,8525
+item-32,Intermediate Training Data,5435
+item-33,Advanced Training Data,6284
 -1,kalina_level,28
--1,kalina_favor,95935
-item-1,T-Doll Contract,9122
-item-2,Equipment Contract,4723
-item-3,Quick Production Contract,6759
-item-4,Quick Repair Contract,16303
+-1,kalina_favor,98620
+item-1,T-Doll Contract,9257
+item-2,Equipment Contract,5002
+item-3,Quick Production Contract,7283
+item-4,Quick Repair Contract,16785
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
-item-8,Quick Training Contract,327
-item-9,Enhancement Capsule,5169
+item-8,Quick Training Contract,365
+item-9,Enhancement Capsule,5848
 item-11,Key Card,0
 item-12,Points,0
-item-14,Original Sample,840
-item-15,Pure Sample,397
-item-16,Quick Analysis Contract,2005
-item-17,Data Patch,618
-item-41,Token,9898
+item-14,Original Sample,560
+item-15,Pure Sample,221
+item-16,Quick Analysis Contract,2135
+item-17,Data Patch,711
+item-41,Token,10641
 item-42,Exchange Ticket,0
 item-43,Black Card,16
-item-44,Calibration Ticket,3616
-item-45,Memory Fragment,7860
-item-46,Special Combat Report,18168
-item-47,Theater Material,4
-item-50,Universal Parts,16989
-item-51,New Type Fire-Control Component,61
-item-53,Gachapon Ticket,1760
+item-44,Calibration Ticket,5436
+item-45,Memory Fragment,9020
+item-46,Special Combat Report,15438
+item-47,Theater Material,6
+item-50,Universal Parts,19464
+item-51,New Type Fire-Control Component,62
+item-53,Gachapon Ticket,2690
 item-100,Elite Griffin Combat Medal,11
 item-101,Combat Ranking Medal,131
-item-103,Challenger Medal,31
+item-103,Challenger Medal,32
 item-104,Elite Adventurer Medal,7
 item-105,Sangvis-Griffin Coalition Medal,10
-item-106,Chess Champion Medal,2357
+item-106,Chess Champion Medal,2489
 item-107,Wind-Calmer's Medal,1
 item-108,Hell-Walker's Medal,1
 item-109,8th Theater Pioneer Medal,1
 item-110,8th Theater Conqueror Medal,1
-item-306,Core Data: QLZ-04,0
+item-114,9th Theater Pioneer Medal,1
+item-115,9th Theater Conqueror Medal,1
+item-306,Central Data: QLZ-04,0
 item-307,Central Data: Mk 153,0
-item-308,Core Data: PP93,0
-item-506,Battery,3061
-item-507,Surplus EXP,604213
-item-508,Friendship Points,234760
-item-509,Fairy Command,94
+item-308,Central Data: PP93,0
+item-309,Central Data: Mk 47,0
+item-506,Battery,185
+item-507,Surplus EXP,69791
+item-508,Friendship Points,245000
+item-509,Fairy Command,65
 item-510,Combat Sim Extra Energy,20
-item-512,Supernova Kernel,760
-item-513,Dark Star Kernel,20200
-item-514,Petri Dish,16302
-item-515,Basic Training Keycode,64452
-item-516,Advanced Training Keycode,21683
+item-512,Supernova Kernel,790
+item-513,Dark Star Kernel,24600
+item-514,Petri Dish,17225
+item-515,Basic Training Keycode,70953
+item-516,Advanced Training Keycode,29366
 item-517,Specified Equipment Contract,30
-item-519,HOC General Data,311
+item-519,HOC General Data,323
 item-520,Frag Grenade,128
 item-521,Stun Grenade,90
 item-522,Turret,46
 item-523,G&K,1
 item-524,Goliath Projectile,1
-item-525,Quick Auto-Battle Contract,197
-item-601,Infinite Surprise Dye,66
+item-525,Quick Auto-Battle Contract,53
+item-601,Infinite Surprise Dye,78
 item-602,Colorful Specified Dye,1
 item-603,Potential Energy,0
-item-604,Electronic Impulse,10
-item-605,Aid Commission,88
-item-606,Transfer Catalyst,207
+item-604,Electronic Impulse,0
+item-605,Aid Commission,99
+item-606,Transfer Catalyst,212
 item-1001,AAT-52 Icon,1
 item-1002,G43 Icon,1
 item-1003,IDW Icon,1
@@ -359,6 +362,10 @@ item-2036,ID Card: Where My Heart Is At Ease,1
 item-2037,ID Card: Final Shot,1
 item-2038,ID Card: Operation Aeneas Mission Briefing,1
 item-2039,Background: Dawn In Avernus,1
+item-2059,Icon: Language of Flowers,1
+item-2060,Icon: Where Eyes Point,1
+item-2061,Icon: Chocolate For Her,1
+item-2062,ID Card: Nighttime Cocoa Fragrance,1
 item-2066,Neural Cloud Meme - Codename Three: Magnetic Moment,1
 item-2067,Parallel Dimensionality - Codename Three: Magnetic Moment,1
 item-2068,Technological Singularity - Codename Three: Magnetic Moment,1
@@ -370,30 +377,32 @@ item-2124,ID: Mirror Stage,1
 item-2142,The Sky is the Limit,1
 item-2174,ID: Power Struggle,1
 item-2224,ID Card: Fixed Point,1
-item-4001,City's Gift,93008
-item-4002,Snowfield's Gift,88338
-item-4003,Forest's Gift,89551
-item-4004,Wasteland's Gift,25329
-item-6001,Ordinary Meat Bun,64
-item-6002,Bundle of Meat Buns,75
-item-6003,Trove of Meat Buns,110
-item-6004,Commonfolk Standard,91
-item-6005,Comfort Bucket for One,89
-item-6006,Full Meal for Two,152
-item-6007,Strawberry Cheesecake Slice,78
-item-6008,One Week's Cake Selection,81
-item-6009,Sweet Explosives,273
-item-6010,"Baby  B-A-B-Y.",101
-item-6011,Streetside Oden,83
-item-6012,Wild Honeycomb,84
-item-6013,Icy Theater,98
+item-4001,City's Gift,87663
+item-4002,Snowfield's Gift,86815
+item-4003,Forest's Gift,89057
+item-4004,Wasteland's Gift,21831
+item-6001,Ordinary Meat Bun,68
+item-6002,Bundle of Meat Buns,78
+item-6003,Trove of Meat Buns,114
+item-6004,Commonfolk Standard,99
+item-6005,Comfort Bucket for One,93
+item-6006,Full Meal for Two,154
+item-6007,Strawberry Cheesecake Slice,88
+item-6008,One Week's Cake Selection,82
+item-6009,Sweet Explosives,285
+item-6010,"Baby  B-A-B-Y.",104
+item-6011,Streetside Oden,85
+item-6012,Wild Honeycomb,86
+item-6013,Icy Theater,99
+item-7001,Candy Pocket,1
+item-7004,Lovestruck,2
 item-7006,Spit Bubble,1
 item-7009,Purple Blues,1
-item-7010,Golden Lullaby,1
+item-7010,Golden Lullaby,3
 item-7012,Cherry Blossom Breeze,2
-item-7013,Stormy Cloud,3
+item-7013,Stormy Cloud,4
 item-7015,Structurer,1
-item-7016,Wayfinder,3
+item-7016,Wayfinder,4
 item-7019,Snowman Fantasy,2
 item-7021,Chromatic World,2
 item-7022,Clover Game,2
@@ -411,9 +420,9 @@ item-9005,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,30
-item-10604,Extra Impulse,153
-item-10605,Level of Activity,330
-item-10606,Frontline Protocol Advanced Card,2110
+item-10604,Extra Impulse,186
+item-10605,Level of Activity,225
+item-10606,Frontline Protocol Advanced Card,1145
 item-100006,Gingerbread Doll,64
 item-100008,Easter Egg,15
 item-100009,Crown of Respect,20
@@ -488,11 +497,14 @@ item-100122,Quick-Build Materials,0
 item-100123,Xmas Coin,0
 item-100124,Nova Medal - One Coin Short,0
 item-100125,Platinum Medal - One Coin Short,0
-item-100126,Supply Crate - Fixed Point,420
-item-100127,Nova Medal - Fixed Point,41
-item-100128,Platinum Medal - Fixed Point,491
+item-100126,Supply Crate - Fixed Point,0
+item-100127,Nova Medal - Fixed Point,1
+item-100128,Platinum Medal - Fixed Point,2
 item-100129,True Core Mask - Fixed Point,0
 item-100130,Corrupted Heart Mask - Fixed Point,0
+item-100134,Nova Medal: Love Bakery,4
+item-100135,Platinum Medal: Love Bakery,0
+item-100136,Fragrant Cocoa,10
 item-100160,Butterfly Mirage,0
 item-100161,Nova Medal - Butterfly in a Cocoon,0
 item-100162,Platinum Medal - Butterfly in a Cocoon,1
@@ -516,9 +528,11 @@ item-110020,Event Points,2400
 item-110021,Event Points,2420
 item-110022,Event Points,2490
 item-110039,Event Points,10424699
+item-110041,Event Points,44000
 item-110043,Event Points,5591024
 item-110044,Event Points,3692691
 item-110046,Event Points,3297600
+item-121001,Highway to Hell,1
 item-130015,Grenade Catcher,1
 item-200001,Icon Frame - Whimsical Connection,1
 item-200002,Icon Frame - Neural Tide,1
@@ -549,22 +563,23 @@ item-900048,Platinum Medal - One Coin Short,2
 item-1100007,Corona Fusion,1
 item-1100008,Corona Fusion,1
 item-1500014,Frontline Protocol - Extra Prize,0
-item-1500016,Frontline Protocol - Extra Prize,14
+item-1500016,Frontline Protocol - Extra Prize,0
+item-1500020,Frontline Protocol - Extra Prize,0
 gift-6608,Raise the Christmas Elf,1
 gift-6809,Virtue of the Silk Brocade,1
-gift-100001,Lollipop,373
-gift-100002,Ice Cream Cone,193
-gift-100003,Strawberry Custard Cheesecake,2777
+gift-100001,Lollipop,378
+gift-100002,Ice Cream Cone,211
+gift-100003,Strawberry Custard Cheesecake,2955
 gift-100005,Mulan Tea,40
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,222296
+gift-200001,Combat Report,237246
 gift-200003,Beer on Discount,40
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
 gift-200006,Satan's Tears,10
-gift-400001,Rapid Growth Disk,33313
+gift-400001,Rapid Growth Disk,37071
 furniture-10110,State-of-the-Art Workbench,10
 furniture-10210,Large Cat Castle,10
 furniture-10310,Integrated Canine Care Station,10
